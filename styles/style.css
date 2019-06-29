@@ -5,3 +5,20 @@ body {
     color: #777777;
     background: url("../images/concrete_seamless.png");
   }
+
+  #header-style{
+    font-size: 28px;
+    padding: 10px;
+    margin: 10px 10px 10px 190px;
+    background-color: #4aaaa5;
+  }
+
+  ul{
+    margin: 0px 100px 0px 0px;
+  }
+
+  @media screen and (max-width: 640px) {
+    #bio-image {
+      margin-top: 50px;
+    }
+  }
